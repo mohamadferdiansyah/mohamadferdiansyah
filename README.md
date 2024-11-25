@@ -86,9 +86,12 @@
 
 <br clear="both">
 
-<a href="https://visitcount.itsvg.in">
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=mohamadferdiansyah&label=Profile%20Views&color=1&icon=0&pretty=true" />
-</a>
+  </a>
+</div>
+
 <img src="https://raw.githubusercontent.com/mohamadferdiansyah/mohamadferdiansyah/output/snake.svg" alt="Snake animation" />
 
 ###

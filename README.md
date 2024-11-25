@@ -80,9 +80,6 @@
   <a href="https://www.linkedin.com/in/mohamad-ferdiansyah-888a1a2b8/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="linkedin logo"  />
   </a>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=mohamadferdiansyah&label=Profile%20Views&color=1&icon=0&pretty=true" />
-  </a>
 </div>
 
 ###
@@ -97,6 +94,12 @@
 
 <div align="center">
   <img height="150" src="https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif"  />
+</div>
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=mohamadferdiansyah&label=Profile%20Views&color=1&icon=0&pretty=true" />
+  </a>
 </div>
 
 ###

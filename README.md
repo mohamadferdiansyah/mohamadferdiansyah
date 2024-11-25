@@ -86,6 +86,9 @@
 
 <br clear="both">
 
+<a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=mohamadferdiansyah&label=Profile%20Views&color=1&icon=0&pretty=true" />
+</a>
 <img src="https://raw.githubusercontent.com/mohamadferdiansyah/mohamadferdiansyah/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -94,12 +97,6 @@
 
 <div align="center">
   <img height="150" src="https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif"  />
-</div>
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=mohamadferdiansyah&label=Profile%20Views&color=1&icon=0&pretty=true" />
-  </a>
 </div>
 
 ###
